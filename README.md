@@ -15,6 +15,7 @@ A minimal Unix-like shell implemented from scratch in C to understand Linux proc
   - `fork()`
   - `execvp()`
   - `waitpid()`
+  - Output redirection using `>`
 - Safe input handling using `fgets()`
 - Modular project structure
 - Strict compilation flags (`-Wall -Wextra -Werror`)
@@ -31,6 +32,8 @@ This project demonstrates understanding of:
 - Working directory management (`chdir`, `getcwd`)
 - Environment handling (`getenv`)
 - Argument parsing using `strtok`
+- File descriptor manipulation (`dup2`)
+- File handling using `open()`
 - Makefile-based build system
 
 ---
