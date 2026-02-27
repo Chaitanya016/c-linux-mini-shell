@@ -36,3 +36,13 @@ This project demonstrates understanding of:
 ---
 
 ## 📂 Project Structure
+```
+c-linux-mini-shell/
+├── src/
+│   ├── main.c
+│   └── shell.c
+├── include/
+│   └── shell.h
+├── Makefile
+└── README.md
+```
